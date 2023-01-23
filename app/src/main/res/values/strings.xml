@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson_6.1</string>
+    <string name="url_image">URL image</string>
+    <string name="submit">Submit</string>
+    <string name="random">Random</string>
+    <string name="empty_field">Your field is empty</string>
+    <string name="non_working_URL">This URL is not available</string>
+</resources>
